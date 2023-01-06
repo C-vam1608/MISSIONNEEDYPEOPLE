@@ -1,0 +1,1038 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+/* navbar css */
+.nav-link{
+  color: white;
+}
+
+.nav-item{
+    font-style: italic;
+}
+.navbar-brand{
+    background-color: rgb(253, 172, 10);
+    font-family: cursive;
+    color: white;
+    
+}
+.first{
+  background-color: rgb(253, 172, 10) ;
+  color: white;
+}
+/* secnavbar css */
+
+.secnavbar{
+  padding-top: 10px;
+  background: green;
+padding-bottom: 10px;
+  
+}
+.third{
+  padding-top: 20px;
+}
+
+/* profile css */
+.card-body h1{
+  text-align: center;
+  justify-content: center;
+  
+}
+.mina, .blockquote{
+  padding-top: 100px;
+  margin-left: 14%;
+}
+ .blockquote-footer{
+  margin-left: 83%;
+}
+
+/* people css */
+  .people{
+    padding-top: 20px;
+  }
+  .ourwork{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .ourwork h1 {
+    justify-content: center;
+    text-align: center;
+  }
+  .ourwork p{
+    text-align: center;
+    justify-content: center;
+  }
+  .so{
+    text-align: center;
+    justify-content: center;
+   padding-left: 550px;
+  
+  }
+
+
+  /* link page css you tube and insta  */
+  .page{
+    margin-top: 6%;
+    margin-bottom: 2%;
+    display: flex;
+    text-decoration: none;
+    justify-content: space-around;
+    
+    
+  }
+  .youtube{
+    margin-top: 5%;
+    font-style: italic;
+    justify-content: center;
+    text-align: center; 
+    -webkit-text-fill-color: rgb(216, 8, 8);
+   
+  }
+  
+  .insta{
+    margin-top: 6%;
+    margin-bottom: 5%;
+    font-style: italic;
+    justify-content: center;
+    text-align: center; 
+    -webkit-text-fill-color: rgba(230, 24, 85, 0.415);
+  }
+
+
+  .gg{
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 4%;
+  }
+
+ /* resoursce csss */
+
+
+  .a {
+    font-size: 20px;
+    padding-top: 20px;
+  }
+  
+  .price {
+    font-size: 100px;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Dancing Script', cursive;
+  }
+  
+  .ab {
+    background-color: white;
+    padding-left: 20px;
+    justify-content: space-between;
+    border: rgb(12, 12, 12);
+    border-style: solid;
+    border-radius: 2%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+  }
+  
+  .onefirst {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 500;
+    color: white;
+    text-transform: capitalize;
+    line-height: 3rem;
+    color: #000;
+  
+  }
+
+  /* .book{
+    padding-top: 20px;
+    text-align: center;
+    justify-content: center;
+  }
+   */
+  .mitag{
+    margin-top: 5%;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 3px 10px 10px 10px;
+    margin-bottom: 5%;
+  
+  }
+
+
+/*  yaha se end hai  */
+ 
+/* second css */
+.body
+{
+width: 95%;
+height: 600px;
+background: rgb(242, 133, 17);
+display: flex ;
+margin: 80px auto;
+}
+.right-side
+{
+display: flex;
+float: left;
+width: 50%;
+padding: 20px;
+height: 300px;
+}
+.right-side .about-img
+{
+position: absolute;
+top: 190px;
+left: 850px;
+}
+ .about-img:hover 
+{
+transform: scale(1.1);
+background: #3d3f3f;
+box-shadow: 4px 4px 4px #000;
+z-index: 1;
+} 
+.about-img::before
+{
+position: absolute;
+content: '';
+right: -30px;
+top: 15px;
+left: 100px;
+border: 10px solid rgba(31, 30, 30, 0.5);
+width: 100%;
+height: 100%;
+}
+.about-img img
+{
+height: 480px;
+width: 200%;
+}
+.left-side
+{
+display: flex;
+margin-top: 30px;
+float: left;
+width: 100%;
+padding: 60px;
+height: 400px;
+}
+.info h1
+{
+font-size: 40px;
+margin-left: 35%;
+}
+.info h2
+{
+font-size: 25px;
+margin-left: 40px;
+margin-bottom: 25px;
+margin-top: 25px;
+}
+.info h2 span
+{
+color: whitesmoke;
+font-size: 35px;
+}
+.info p
+{
+line-height: 22px;
+font-size: 20px;
+margin-left: 40px;
+margin-bottom: 25px;
+}
+.info a
+{
+text-decoration: none;
+color: black;
+margin-top: 10px;
+}
+.info a i
+{
+font-size: 1.5rem;
+}
+
+.box-text a:hover
+{
+background-color:rgb(252, 189, 28);
+color: whitesmoke;
+font :bold;}
+/* third css */
+
+.bo {
+  text-align: center;
+  justify-content: center;
+ padding-left: 450px;
+
+}
+.H{
+  padding-top: 10px;
+}
+
+
+
+/* fourth css */
+
+.pp{
+  background-image: url("image/pp.jpg");
+  background-size: cover;
+  
+}
+.three{
+  justify-content: center;
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+  -webkit-text-fill-color: rgb(26, 227, 56);
+  margin-bottom: 5%;
+}
+
+.fourth{
+  padding-top: 10px;
+
+ }
+ .one{
+justify-content: center;
+text-align: center;
+margin-bottom: 4%;
+ }
+ .two{
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+    
+ }
+
+ 
+  
+  
+ 
+  /* footer css */
+
+.col-md-3 a h4 {
+  color: white;
+  font-size: 25px;
+
+}
+.sh{
+  text-decoration: none;
+}
+
+  .footer{
+    padding-top: 5px;
+  }
+
+  .subscribe{
+    /* background: #274d05 ; */
+    background: green;
+     padding:0px 0px;
+    border-top: 2px green;
+    border-bottom: 4px solid black;
+  }
+  .newsletter h4{
+    font-size: 15px;
+    font-weight: 600;
+    color:#333333;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .newsletter img {
+    padding-right: 10px;
+  }
+
+
+
+  .footer-dark {
+    padding:50px 0;
+    color:#f0f9ff;
+    background-color:green;
+  }
+  
+  .footer-dark h3 {
+    margin-top:0;
+    margin-bottom:12px;
+    font-weight:bold;
+    font-size:25px;
+  }
+  
+  .footer-dark ul {
+    padding:0;
+    list-style:none;
+    line-height:1.6;
+    font-size:14px;
+    margin-bottom:0;
+  }
+  
+  .footer-dark ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.6;
+  }
+  
+  .footer-dark ul a:hover {
+    opacity:0.8;
+  }
+  
+  @media (max-width:767px) {
+    .footer-dark .item:not(.social) {
+      text-align:center;
+      padding-bottom:20px;
+    }
+  }
+  
+  .footer-dark .item.text {
+    margin-bottom:36px;
+  }
+  
+  @media (max-width:767px) {
+    .footer-dark .item.text {
+      margin-bottom:0;
+    }
+  }
+  
+  .footer-dark .item.text p {
+    opacity:0.6;
+    margin-bottom:0;
+  }
+  
+  .footer-dark .item.social {
+    text-align:center;
+  }
+  
+  @media (max-width:991px) {
+    .footer-dark .item.social {
+      text-align:center;
+      margin-top:20px;
+    }
+  }
+  
+  .footer-dark .item.social > a {
+    font-size:20px;
+    width:36px;
+    height:36px;
+    line-height:36px;
+    display:inline-block;
+    text-align:center;
+    padding-right: 100px;
+    margin:0 8px;
+    color:#fff;
+    opacity:0.75;
+  }
+  
+  .footer-dark .item.social > a:hover {
+    opacity:0.9;
+  }
+  
+  .footer-dark .copyright {
+    text-align:center;
+    padding-top:24px;
+    opacity:0.3;
+    font-size:20px;
+    margin-bottom:0;
+    color: white;
+    text-decoration: none;
+    /* isko lihkne se line ht jati hai */
+  }
+  
+ /* donate page css */
+
+ .main{
+  
+  width: 95%;
+height: 600px;
+background:#070d49a7 ;
+display: flex ;
+margin: 80px auto;
+ }
+ /* /* overview page css */
+
+  .firstmain h1{
+    justify-content: center;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    font-style: italic;
+    margin-bottom: 2%;
+  }
+
+ .firstmain{
+
+  padding-top: 10px;
+ }
+ .chota{
+  padding-top: 15px;
+  margin-bottom: 5%;
+ }
+
+ /* vision and missioon page css */
+
+ .slide{
+  padding-top: 10px;
+ }
+
+ .bada{
+  padding-top: 10px;
+ }
+ .bada h1{
+  justify-content: center;
+  text-align: center;
+  margin-top: 3%;
+  margin-bottom: 1%;
+  font-style: italic;
+  
+ }
+ .merabox{
+  padding-top: 30px;
+  border-color: green;
+ }
+ .merabox .row{
+  background-color: rgb(242, 133, 17);
+
+ }
+ .merabox .row .hi{
+   color: white;
+   font-style: italic;
+ }
+
+ .terabox{
+  padding-top: 40px;
+ }
+ .terabox .hello h1{
+  font-style: italic;
+  color: #5961f9ad; 
+ }
+
+
+ /* our mentors page css */
+
+ .men{
+  padding-top: 20px;
+ }
+ .ment{
+  padding-top: 20px;
+ }
+
+ .mid{
+  display: flex;
+  justify-content: center;
+  margin-left: 50%;
+ /* mid me le jane ki kosish jari hai hhahahahahaa     */
+
+ }
+ /* .cc{
+  background-image: url(" ../image/backg.jpg");
+  background-size:cover;
+ } */
+
+
+
+
+ /* health page css */
+
+ .he{
+  padding-top: 30px;
+ }
+
+ .he h1{
+  justify-content: center;
+  text-align: center;
+  margin-top: 5%;
+  color: rgb(15, 15, 15);
+  font-style: italic;
+  font-size: 40px;
+ 
+ }
+ .he p{
+  justify-content: center;
+  text-align: center;
+  padding-top: 5px;
+ font-size: 20px;
+ margin-right: 2%;
+ margin-left: 2%;
+ margin-bottom: 5%;
+
+ }
+
+ /* education page css */
+ .edu{
+
+  top: 50%;
+  padding-top: 60px;
+
+ }
+
+ .edu h1{
+  margin-top: 5%;
+  justify-content: center;
+  text-align: center;
+  color: rgb(11, 10, 10);
+  font-style: italic;
+  font-size: 40px;
+ 
+
+ }
+ .edu  p{
+  justify-content: center;
+  text-align: center;
+  padding-top: 5px;
+  font-size: 20px;
+  margin-left: 4%;
+  margin-right: 4%;
+  margin-bottom: 5%;
+
+ }
+ /* food page css */
+ .foo{
+ padding-top: 20px;
+ }
+
+ .foo h1{
+  margin-top: 5%;
+  justify-content: center;
+  text-align: center;
+  color: rgb(22, 21, 21);
+  font-style: italic;
+  font-size: 40px;
+ 
+ }
+ .foo p{
+  justify-content: center;
+  text-align: center;
+  padding-top: 5px;
+  font-size: 20px;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 5%;
+
+ }
+ /* clothes page css */
+ .clo{
+padding-top: 20px;
+ }
+
+ .clo h1{
+  justify-content: center;
+  text-align: center;
+  margin-top: 5%;
+  color: rgb(20, 20, 20);
+  font-style: italic;
+  font-size: 40px;
+ 
+ }
+
+ .clo p{
+  justify-content: center;
+  text-align: center;
+  padding-top: 5px;
+  font-size: 20px;
+  margin-right: 2%;
+  margin-left: 2%;
+  margin-bottom: 5%;
+ }
+
+
+
+
+
+ /* water page css */
+
+ .pani{
+  padding-top: 20px;
+ }
+ .pani h1{
+  margin-top: 5%;
+  justify-content: center;
+  text-align: center;
+  color: rgb(22, 20, 20);
+  font-style: italic;
+  font-size: 40px;
+
+ }
+ .pani p{
+  justify-content: center;
+  text-align: center;
+  margin-right: 2%;
+  margin-left: 2%;
+  margin-bottom: 5%;
+  padding-top: 5px;
+  font-size: 20px;
+ }
+
+ /* our people page css */
+ .col-lg-4{
+  border-radius: .3em;
+  
+ }
+
+ .our{
+  padding-top: 20px;
+  justify-content: center;
+  text-align: center;
+ }
+ .box-img{
+  width: 160px;
+height: 160px;
+padding-top: 60px; 
+padding-left: 260px;  
+ } 
+
+
+ /* donate page css */
+ 
+ .pay{
+  background-image: url("image/card.jpg");
+  background-size: cover;
+  height: 900px; 
+  /* background-color: rgba(93, 4, 81, 0.814); */
+  text-decoration: none;
+  justify-content: space-around;
+  display: flex;
+  padding-bottom: 300px;
+
+} 
+.mai{
+  margin-top: 9.5%;
+
+}
+.pay .mai{
+  justify-content: center;
+  text-align: center;
+  color:white;
+}
+
+
+ 
+
+
+
+.form {
+  max-width: 600px;
+  margin: 20px auto;
+  padding-top: 100px;
+
+}
+
+form.form-example {
+  display: table;
+  padding-left: 90px;
+}
+
+div.form-example {
+   display: table-row; 
+  padding: 10px 5px;
+}
+
+label, input {
+  display: table-cell;
+  margin-bottom: 2px;
+  margin: 20px 0;
+  padding: 10px 5px;
+  padding-top: 2px;
+  width: 200%; 
+  font-size: 15px;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-style: italic;
+}
+
+
+/* working model page css  */
+
+.model{
+  padding-top: 20px;
+
+text-align: center;
+}
+.model img {
+  margin-top: 20px;
+}
+.im{
+  margin-top: 2%;
+  
+}
+
+
+/* resch css */
+
+.tuhai{
+  margin-top: 5%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.ajao{
+  margin-top: 10%;
+  
+}
+.ajao h1{
+  justify-content: center;
+  text-align: center;
+
+}
+.ajao pre{
+  font-size: 20px;
+  margin-right: 5%;
+  max-width: fit-content;
+  
+}
+
+
+
+
+/* about ua page css */
+
+
+.aya{
+  margin-bottom: 5%;
+}
+
+
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.about-section {
+  padding: 60px;
+  text-align: center;
+  background-color: #474e5d;
+  color: white;
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+ 
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+} 
+
+
+
+
+.ment{
+  margin-top: 10%;
+   margin-left: 8%; 
+   
+}
+
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 40px;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+
+
+
+
+
+/* gallery  */
+
+
+
+body {
+  margin: 0px;
+  
+}
+
+div#background {
+  height: 3300px;
+  width: 100%;
+  background-image: url(http://garchitecture.ca/php/images/headers/wood.jpg);
+  padding-top: 20px;
+}
+
+div#gallery {
+  width: 1100px;
+  margin: auto;
+}
+
+
+#background img {
+  height: 150px;
+  margin: 0px;
+}
+
+#background figure {
+  float: left;
+  position: relative;
+  background-color: white;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 1px 2px 3px black;
+}
+
+figure.pic1 {
+  -webkit-transform : rotate(-10deg);
+  z-index: 1;
+}
+
+figure.pic2 {
+  -webkit-transform : rotate(15deg);
+  z-index: 2;
+}
+
+figure.pic3 {
+  -webkit-transform : rotate(-25deg);
+  z-index: 1;
+}
+
+figure.pic4 {
+  -webkit-transform : rotate(5deg);
+  z-index:1;
+}
+
+figure.pic5 {
+  -webkit-transform : rotate(5deg);
+  z-index:1;
+}
+
+figure.pic6 {
+  -webkit-transform : rotate(-8deg);
+  z-index:1;
+}
+
+figure.pic7 {
+  -webkit-transform : rotate(2deg);
+  z-index:1;
+}
+
+figure.pic8 {
+  -webkit-transform : rotate(-13deg);
+  z-index:1;
+}
+
+figure.pic9 {
+  -webkit-transform : rotate(-7deg);
+  z-index:1;
+}
+
+figure.pic10 {
+  -webkit-transform : rotate(2deg);
+  z-index:1;
+}
+
+figure.pic11 {
+ -webkit-transform : rotate(-3deg);
+  z-index:1;
+}
+
+#background figure:hover {
+  box-shadow: 5px 10px 100px black;
+  -webkit-transform: scale(1.1,1.1);
+  z-index: 20;
+}
+
+
+
+/* video css */
+.vivo{
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+  /* in tin cheez ko apply karne se koi bhi do tin videco ya photo box ek hi line me a jati hai */
+}
+
+
+
+/* contact us submit css */
+.submitmsg{
+  text-align: center;
+  justify-content: center;
+  color: green;
+  font-size: 40px;
+  
+}
+
+
+
+
+
