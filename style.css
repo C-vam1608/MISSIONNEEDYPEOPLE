@@ -65,8 +65,10 @@ padding-bottom: 10px;
     justify-content: center;
   }
   .so{
-    text-align: center;
-    justify-content: center;
+/*     text-align: center;
+    justify-content: center; */
+     margin-left: 37%;
+   display: flex;
    padding-left: 550px;
   
   }
