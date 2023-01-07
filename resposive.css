@@ -6,9 +6,11 @@
     }
     .page{
         display: block;
+        max-width: fit-content;
+         margin-left: 2%;
     }
     .col-md-4 img{
-        margin-left: 10%;
+        margin-left: 6%;
     }
     .card-body h2{
         margin-left: 27%;
@@ -18,6 +20,10 @@
     }
      .mitag{
         max-width: 100%;
+    }
+     .gg{
+        margin-left: 1%;
+        max-width: 1%;
     }
     
     /* completed  */
