@@ -7,7 +7,7 @@
     .page{
         display: block;
         max-width: fit-content;
-         margin-left: 2%;
+         margin-left: 15%;
     }
     .col-md-4 img{
         margin-left: 6%;
@@ -19,10 +19,10 @@
         margin-left: 50%;
     }
      .mitag{
-        max-width: 100%;
+        max-width: 150%;
     }
      .gg{
-        margin-left: 1%;
+        margin-left: 16%;
         max-width: 1%;
     }
     
@@ -116,7 +116,7 @@
 /* completed  */
 
 /* contact us responcive */
-.fourth .one{
+/* .fourth .one{
     max-width: 55%;
       text-decoration: none;
     display: flex;
@@ -129,12 +129,26 @@
     background-size: cover;
     
   }
-
+ */
 .two{
-    max-width: 2%;
+    max-width: 90%;
     text-decoration: none;
     display: flex;
-    justify-content: space-around;
+/*     justify-content: space-around; */
 }
 
 }
+
+
+
+@media only screen and (max-width: 900px){
+
+    .two{
+        max-width: 10%;
+         text-decoration: none; 
+        display: flex;
+       
+        /* justify-content: space-around; */
+    }
+}
+
