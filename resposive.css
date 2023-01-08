@@ -163,3 +163,43 @@
 }
 
 
+
+
+@media only screen and (max-width: 445px){
+
+
+     .youtube{
+        height: 93vh;
+        width: 57vw;
+       
+        margin-bottom: 20%;
+
+    }
+    .youtube video{
+        height: 87vh;
+        width: 65vw;
+    }
+    .insta{
+        margin-top: 20%;
+        height: 100vh;
+        width: 58vw;
+
+    } 
+    .insta video{
+        height: 87vh;
+        width: 65vw;
+    }
+
+    .gg{
+
+        margin-top: 172%;
+        margin-left: 24%;
+        max-width: 1%;
+        
+    }
+
+}
+
+
+
+
