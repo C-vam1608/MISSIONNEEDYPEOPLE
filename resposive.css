@@ -195,7 +195,21 @@
         margin-top: 172%;
         margin-left: 7%;
         max-width: 1%;
-        
+      }
+    
+    .ab{
+        text-decoration: none;
+        display: block;
+    }
+    .a{
+        font-size: 65%;
+    }
+    .ab .onefirst{
+        font-size: 64%;
+    }
+    .mitag{
+        max-width: 120%; 
+      
     }
 
 }
