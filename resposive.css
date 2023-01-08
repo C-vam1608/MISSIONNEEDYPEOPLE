@@ -7,7 +7,7 @@
     .page{
         display: block;
         max-width: fit-content;
-         margin-left: 15%;
+         margin-left: 24%;
     }
     .col-md-4 img{
         margin-left: 6%;
@@ -22,7 +22,7 @@
         max-width: 150%;
     }
      .gg{
-        margin-left: 16%;
+        margin-left: 24%;
         max-width: 1%;
     }
     
@@ -151,4 +151,15 @@
         /* justify-content: space-around; */
     }
 }
+
+
+
+@media only screen and (max-width: 430px){
+
+   .two{
+    display: none;
+   }
+
+}
+
 
