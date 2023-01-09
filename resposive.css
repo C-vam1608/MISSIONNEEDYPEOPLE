@@ -211,6 +211,10 @@
         max-width: 120%; 
       
     }
+    
+     .love .col-md-4 img {
+        max-width: 88%;
+    }
 
 }
 
