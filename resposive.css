@@ -311,7 +311,31 @@
     .fourth{
        margin: 10% ;
     }
+    
+       
+ .intro-text{
+    margin-left: 1%;
+  } 
+    
+    .vivo{
+    margin-left: 29%;
+    margin-top: 39%;
+  }
+    
+    
 }
+
+
+@media only screen and (max-width: 371px){
+
+.vivo{
+
+    margin-left: -20%;
+}
+
+}
+
+
 
 
 
