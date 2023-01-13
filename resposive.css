@@ -236,10 +236,73 @@
       .carousel-item{
         height: 59vh;
     }
+    
+     .i-frame{
+        display: none;
+    }
+    .stand-1{
+        display: none;
+    }
+     
+    .stand-2{
+        display: none;
+    }
 
   
 }
 
+
+
+
+
+@media only screen and (max-width: 847px){
+
+.stand-1{
+        display: none;
+    }
+     
+    .stand-2{
+        display: none;
+    }
+
+    
+    .i-frame{
+        display: none;
+    }
+
+    
+ .intro-text{
+    margin-left: 27%;
+  } 
+  
+  .two{
+    margin-left: 40%;
+  }
+
+ 
+}
+
+@media only screen and (max-width: 497px){
+
+.two{
+    display: block;
+}
+
+}
+
+
+
+
+@media only screen and (max-width: 1412px){
+
+.stand-1{
+    display: none;
+}
+
+.stand-2{
+    display: none;
+}
+}
 
 
 
