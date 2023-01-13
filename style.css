@@ -1036,5 +1036,104 @@ figure.pic11 {
 
 
 
+/* contact first pagew layout  */
+
+.i-frame{
+  
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center; 
+  justify-content: space-between;
+  gap: 1.9rem;
+  max-width: 1400px;
+  margin: -19rem auto -6rem;
+  flex-wrap: wrap;
+    flex-direction: row-reverse;
+  align-content: flex-start;
+}
+
+ .intro-text{
+  margin-left: 5%;
+} 
+.intro-text h1 {
+  margin-top: 13%;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.hero p {
+  line-height: var(--line-height);
+}
+
+.hear {
+ color: green;
+}
+.connecting {
+  color: orangered;
+}
+
+.ctn {
+  margin-top: 1rem;
+  display: inline-block;
+  padding: 0.8rem 0.6rem;
+  border: none;
+  font-size: 1.4rem;
+  border-radius: 5px;
+  color: #fff;
+}
+
+
+.red {
+  background-color: green;
+  margin-right: 1.5rem;
+}
+
+.red:hover {
+  background-color: green;
+  color: #fff;
+}
+
+
+.blue {
+  background-color: red;
+}
+
+.blue:hover {
+  background-color: red;
+  color: #fff;
+}
+
+
+
+iframe {
+  max-width: 30rem;
+  border-top: 40px groove orangered;
+  border-bottom: 40px groove orangered;
+  border-right: 28px solid green;
+  border-left: 28px solid green;
+}
+
+.stand-1 {
+  height: 128px;
+  width: 6px;
+  background-color: orangered;
+  transform: rotate(40deg);
+  position: relative;
+  top: 210px;
+  left: 637px;
+}
+.stand-2 {
+  height: 128px;
+  width: 6px;
+  background-color: green;
+  transform: rotate(-40deg);
+  position: relative;
+  top: 210px;
+  left: 1179px;
+} 
+
+
+
+
 
 
