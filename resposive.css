@@ -216,6 +216,11 @@
         max-width: 88%;
     }
     
+    
+    .men  .col-md-4 img{
+        display: none;
+    }
+    
       .love .card-body h2{
         margin-left: 18%;
     }
