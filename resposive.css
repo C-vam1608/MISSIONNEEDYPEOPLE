@@ -221,6 +221,12 @@
         display: none;
     }
     
+     .men .mid{
+        justify-content: left;
+         margin-left: -1%;
+       /* mid me le jane ki kosish jari hai hhahahahahaa     */
+       }
+    
       .love .card-body h2{
         margin-left: 18%;
     }
