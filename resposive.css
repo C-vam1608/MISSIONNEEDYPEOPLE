@@ -299,6 +299,11 @@
     display: block;
       margin-left: 25%;
 }
+    
+#background{
+    padding-bottom: 890%;
+}
+
 
 }
 
@@ -342,10 +347,25 @@
 
 .vivo{
 
-    margin-left: -20%;
+  display:none;
 }
 
 }
+
+
+
+@media only screen and (max-width: 571px){
+
+    .vivo{
+    
+       display: none;
+    }
+   #background{
+    margin-bottom: 655%;
+   }
+    
+    }
+    
 
 
 
