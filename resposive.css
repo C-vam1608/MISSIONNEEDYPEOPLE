@@ -377,6 +377,16 @@
      height: 1551px;
 }
 }
+
+
+  
+@media only screen and (max-width: 375px){
+
+    #background{
+        margin-bottom: 1083%;
+       }
+}
+
     
 
 
