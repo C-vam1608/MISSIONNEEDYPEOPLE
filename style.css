@@ -5,6 +5,27 @@
 
 
 /* navbar css */
+
+.burger{
+
+  display: none;
+  /* position: absolute;
+  cursor: pointer;
+  right: 5%;
+  top: 15px; */
+
+}
+.line{
+
+  display: none;
+ /* width: 33px;
+ background-color: white;
+ height: 4px;
+ margin: 3px 3px; */
+
+}
+
+
 .nav-link{
   color: white;
 }
