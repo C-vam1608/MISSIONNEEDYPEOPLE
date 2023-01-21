@@ -386,11 +386,13 @@
 
 
   
-@media only screen and (max-width: 375px){
+@media only screen and (max-width: 397px){
 
-    #background{
-        margin-bottom: 1083%;
+     #background{
+        padding-bottom: 1343%;
        }
+    
+
 }
 
     
