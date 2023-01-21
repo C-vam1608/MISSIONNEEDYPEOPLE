@@ -372,10 +372,16 @@
   
 @media only screen and (max-width: 1280px){
 
+    
 .im img{
-    max-width: -9%;
-     height: 1551px;
+    max-width: 99%;
 }
+
+.pay{
+    margin-bottom: -9%;
+    height: 1551px;
+}
+   
 }
 
 
