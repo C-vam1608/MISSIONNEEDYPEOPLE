@@ -395,6 +395,14 @@
 
 }
 
+
+  
+@media only screen and (max-width: 375px){
+
+    #background{
+        padding-bottom: 1936%;
+       } 
+} 
     
 
 
